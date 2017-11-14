@@ -1,3 +1,9 @@
+/**
+ * File Name:main.cpp
+ * Developer:Anthony Serrano
+ * Email:serranoa137164@student.vvc.edu
+ * Description:This program will take in deposits and withdrawals of a bank account and then prints out a statement.
+**/
 #include <iostream>
 #include <string>
 #include <vector>
